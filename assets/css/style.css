@@ -580,6 +580,8 @@ section {
 
 .about .content {
   background-color: #f6f9ff;
+  background: url(../img/about-content-bg.png) top center no-repeat;
+  background-size: cover;
   padding: 40px;
 }
 
