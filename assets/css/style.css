@@ -702,6 +702,13 @@ section {
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
+
+.features {
+  background: #1C4E45;
+  background: url(../img/features-bg.png) top center no-repeat;
+  background-size: cover;
+}
+
 .features .feature-box {
   padding: 24px 20px;
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
