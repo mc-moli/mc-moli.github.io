@@ -625,11 +625,15 @@ section {
 # Values
 --------------------------------------------------------------*/
 .values {
+  background: #1C4E45;
   background: url(../img/values-bg.png) top center no-repeat;
   background-size: cover;
 }
 
 .values .box {
+  background: #ffffff;
+  background: url(../img/values-box.png) top center no-repeat;
+  background-size: cover;
   padding: 30px;
   box-shadow: 0px 0 5px rgba(1, 41, 112, 0.08);
   text-align: center;
