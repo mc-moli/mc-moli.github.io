@@ -1596,7 +1596,17 @@ section {
 /*--------------------------------------------------------------
 # Recent Blog Posts
 --------------------------------------------------------------*/
+
+.recent-blog-posts{
+  background: #1C4E45;
+  background: url(../img/recent-bg.png) top center no-repeat;
+  background-size: cover; 
+}
+
 .recent-blog-posts .post-box {
+  background: #1C4E45;
+  background: url(../img/recent-box-bg.png) top center no-repeat;
+  background-size: cover; 
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
   transition: 0.3s;
   height: 100%;
