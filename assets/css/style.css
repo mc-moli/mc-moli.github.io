@@ -998,6 +998,13 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
+
+.pricing{
+  background: #1C4E45;
+  background: url(../img/pricing-bg.png) top center no-repeat;
+  background-size: cover; 
+}
+
 .pricing .box {
   padding: 40px 20px;
   background: #fff;
