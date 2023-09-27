@@ -571,6 +571,13 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+
+.about{
+  background: #1C4E45;
+  background: url(../img/about-bg.png) top center no-repeat;
+  background-size: cover;
+}
+
 .about .content {
   background-color: #f6f9ff;
   padding: 40px;
@@ -1544,6 +1551,13 @@ section {
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
+
+.clients{
+  background: #1C4E45;
+  background: url(../img/about-bg.png) top center no-repeat;
+  background-size: cover;
+}
+
 .clients .clients-slider .swiper-slide img {
   opacity: 1;
   transition: 0.3s;
