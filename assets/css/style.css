@@ -31,8 +31,11 @@ a:hover {
 h1 {
   font-family: "DM Serif Display";
 }
-h2,
-h3,
+h2{
+  font-family: "Roboto", "Nunito", sans-serif;}
+h3 {
+  font-family: "DM Serif Display";
+}
 h4,
 h5,
 h6 {
@@ -53,6 +56,7 @@ section {
 }
 
 .section-header h2 {
+  font-family: "roboto";
   font-size: 13px;
   letter-spacing: 1px;
   font-weight: 700;
@@ -586,6 +590,7 @@ section {
 }
 
 .about h3 {
+  font-family: "Roboto", "Nunito", sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #1C4E45;
