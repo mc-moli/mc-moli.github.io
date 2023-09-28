@@ -87,10 +87,10 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #000000;
+  background: #ff911c3b;
   min-height: 40px;
   margin-top: 82px;
-  color: #fff;
+  color: #ff911c;
 }
 
 @media (max-width: 992px) {
@@ -114,7 +114,7 @@ section {
 }
 
 .breadcrumbs ol a {
-  color: #fff;
+  color: #000000;
   transition: 0.3s;
 }
 
@@ -129,7 +129,7 @@ section {
 .breadcrumbs ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #8894f6;
+  color: #000000;
   content: "/";
 }
 
@@ -1494,6 +1494,8 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
+  background: url(../img/about-bg.png) top center no-repeat;
+  background-size: cover;
   padding-top: 40px;
 }
 
@@ -1519,6 +1521,8 @@ section {
 }
 
 .portfolio-details .portfolio-info {
+  background: url(../img/about-content-bg.png) top center no-repeat;
+  background-size: cover;
   padding: 30px;
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
 }
@@ -1528,7 +1532,7 @@ section {
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #000000;
 }
 
 .portfolio-details .portfolio-info ul {
