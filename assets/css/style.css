@@ -43,7 +43,7 @@ h6 {
 # Sections
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 120px 0;
   overflow: hidden;
 }
 
@@ -488,7 +488,7 @@ section {
 }
 
 .hero h2 {
-  color: #444444;
+  color: #000000;
   margin: 15px 0 0 0;
   font-size: 26px;
 }
@@ -1384,7 +1384,7 @@ section {
 
 .testimonials {
   background: #1C4E45;
-  background: url(../img/testimonials-bg.png) top center no-repeat;
+  background: url(../img/values-bg.png) top center no-repeat;
   background-size: cover;  
 }
 
@@ -1687,7 +1687,7 @@ section {
 
 .contact {
   background: #1C4E45;
-  background: url(../img/contact-bg.png) top center no-repeat;
+  background: url(../img/values-bg.png) top center no-repeat;
   background-size: cover;  
 }
 
@@ -2332,7 +2332,7 @@ section {
 .footer .footer-newsletter {
   padding: 50px 0;
   background: #f6f9ff;
-  background: url(../img/contact-bg.png) top center no-repeat;
+  background: url(../img/values-bg.png) top center no-repeat;
   background-size: cover;
   border-top: 1px solid #e1ecff;
 }
