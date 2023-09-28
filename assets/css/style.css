@@ -1104,6 +1104,13 @@ section {
 /*--------------------------------------------------------------
 # F.A.Q
 --------------------------------------------------------------*/
+
+.faq {
+  background: #1C4E45;
+  background: url(../img/faq-bg.png) top center no-repeat;
+  background-size: cover;
+}
+
 .faq .accordion-collapse {
   border: 0;
 }
@@ -1374,6 +1381,13 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+
+.testimonials {
+  background: #1C4E45;
+  background: url(../img/testimonials-bg.png) top center no-repeat;
+  background-size: cover;  
+}
+
 .testimonials .testimonial-item {
   box-sizing: content-box;
   padding: 30px;
@@ -1439,7 +1453,7 @@ section {
 }
 
 .testimonials .swiper-slide {
-  opacity: 0.3;
+  opacity: 1;
 }
 
 @media (max-width: 1199px) {
@@ -1670,6 +1684,13 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
+.contact {
+  background: #1C4E45;
+  background: url(../img/contact-bg.png) top center no-repeat;
+  background-size: cover;  
+}
+
 .contact .info-box {
   color: #444444;
   background: #fafbff;
