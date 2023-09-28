@@ -1088,14 +1088,15 @@ section {
   display: inline-block;
   padding: 8px 40px 10px 40px;
   border-radius: 50px;
-  color: #1C4E45;
+  background: #D37345;
+  color: #f2fcf8;
   transition: none;
   font-size: 16px;
   font-weight: 400;
   font-family: "Roboto", "Nunito", sans-serif;
   font-weight: 600;
   transition: 0.3s;
-  border: 1px solid #1C4E45;
+  border: 1px solid #f2fcf8;
 }
 
 .pricing .btn-buy:hover {
@@ -1122,7 +1123,7 @@ section {
 
 .faq {
   background: #1C4E45;
-  background: url(../img/3values-bg.png) top center no-repeat;
+  background: url(../img/6.jpg) top center no-repeat;
   background-size: cover;
 }
 
@@ -1806,7 +1807,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #1C4E45;
+  background: #D37345;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -2387,7 +2388,7 @@ section {
   font-size: 16px;
   padding: 0 30px;
   margin: 3px;
-  background: #1C4E45;
+  background: #D37345;
   color: #fff;
   transition: 0.3s;
   border-radius: 4px;
