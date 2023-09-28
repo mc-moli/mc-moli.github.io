@@ -677,6 +677,47 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Values2
+--------------------------------------------------------------*/
+.values2 {
+  background: #1c4e4500;
+  background: url(../img/3values-bg.png) top center no-repeat;
+  background-size: cover;
+}
+
+.values2 .box {
+  background: #F2FCF8;
+  background: url(../img/values-box.png) top center no-repeat;
+  background-size: cover;
+  padding: 30px;
+  box-shadow: 0px 0 5px rgba(1, 41, 112, 0.08);
+  text-align: center;
+  transition: 0.3s;
+  height: 100%;
+}
+
+.values2 .box img {
+  padding: 30px 50px;
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+.values2 .box h3 {
+  font-size: 24px;
+  color: #000000;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.values2 .box:hover {
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+}
+
+.values2 .box:hover img {
+  transform: scale(1);
+}
+
+/*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
 .counts {
@@ -1249,6 +1290,7 @@ section {
 }
 
 .faq .accordion-button {
+  background-color: rgb(255, 255, 255);
   padding: 15px 15px 20px 0;
   font-weight: 600;
   border: 0;
@@ -1263,12 +1305,12 @@ section {
 
 .faq .accordion-button:not(.collapsed) {
   background: none;
-  color: #f2fcf8;
+  color: #000000;
   border-bottom: 0;
 }
 
 .faq .accordion-body {
-  background-color: rgba(255,255,255,0);
+  background-color: rgb(255, 255, 255);
   padding: 0 0 25px 0;
   border: 0;
 }
