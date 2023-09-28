@@ -57,7 +57,7 @@ section {
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
-  color: #1C4E45;
+  color: #000000;
   text-transform: uppercase;
 }
 
@@ -1598,13 +1598,13 @@ section {
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #ffffff00;
   opacity: 1;
-  border: 1px solid #1C4E45;
+  border: 1px solid #000000;
 }
 
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #1C4E45;
+  background-color: #000000;
 }
 
 /*--------------------------------------------------------------
