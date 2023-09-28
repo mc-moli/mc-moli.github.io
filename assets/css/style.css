@@ -1694,6 +1694,8 @@ section {
 .contact .info-box {
   color: #444444;
   background: #fafbff;
+  background: url(../img/recent-box-bg.png) top center no-repeat;
+  background-size: cover; 
   padding: 30px;
 }
 
@@ -1719,6 +1721,8 @@ section {
 
 .contact .php-email-form {
   background: #fafbff;
+    background: url(../img/features-bg.png) top center no-repeat;
+  background-size: cover; 
   padding: 30px;
   height: 100%;
 }
@@ -2328,6 +2332,8 @@ section {
 .footer .footer-newsletter {
   padding: 50px 0;
   background: #f6f9ff;
+  background: url(../img/contact-bg.png) top center no-repeat;
+  background-size: cover;
   border-top: 1px solid #e1ecff;
 }
 
