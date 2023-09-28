@@ -640,7 +640,7 @@ section {
 }
 
 .values .box {
-  background: #ffffff;
+  background: #F2FCF8;
   background: url(../img/values-box.png) top center no-repeat;
   background-size: cover;
   padding: 30px;
@@ -1443,13 +1443,13 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #F2FCF800;
   opacity: 1;
-  border: 1px solid #1C4E45;
+  border: 1px solid #F2FCF8;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #1C4E45;
+  background-color: #F2FCF8;
 }
 
 .testimonials .swiper-slide {
@@ -1598,7 +1598,7 @@ section {
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #ffffff00;
+  background-color: #F2FCF800;
   opacity: 1;
   border: 1px solid #000000;
 }
