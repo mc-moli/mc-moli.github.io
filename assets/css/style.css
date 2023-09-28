@@ -639,7 +639,7 @@ section {
 # Values
 --------------------------------------------------------------*/
 .values {
-  background: #1C4E45;
+  background: #1c4e4500;
   background: url(../img/values-bg.png) top center no-repeat;
   background-size: cover;
 }
@@ -1143,7 +1143,7 @@ section {
 
 .faq .accordion-button:not(.collapsed) {
   background: none;
-  color: #F2FCF8;
+  color: #f2fcf8;
   border-bottom: 0;
 }
 
@@ -1398,7 +1398,7 @@ section {
 
 .testimonials {
   background: #1C4E45;
-  background: url(../img/values-bg.png) top center no-repeat;
+  background: url(../img/3values-bg.png) top center no-repeat;
   background-size: cover;  
 }
 
@@ -1701,7 +1701,7 @@ section {
 
 .contact {
   background: #1C4E45;
-  background: url(../img/values-bg.png) top center no-repeat;
+  background: url(../img/3values-bg.png) top center no-repeat;
   background-size: cover;  
 }
 
@@ -2338,7 +2338,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background: #f6f9ff;
+  background: #00000000;
   padding: 0 0 30px 0;
   font-size: 14px;
 }
@@ -2346,7 +2346,7 @@ section {
 .footer .footer-newsletter {
   padding: 50px 0;
   background: #f6f9ff;
-  background: url(../img/values-bg.png) top center no-repeat;
+  background: url(../img/faq-bg.png) top center no-repeat;
   background-size: cover;
   border-top: 1px solid #e1ecff;
 }
@@ -2396,8 +2396,8 @@ section {
 }
 
 .footer .footer-top {
-  background: white url(../img/footer-bg.png) no-repeat right top;
-  background-size: contain;
+  background: url(../img/hero-bg.png) top center no-repeat;
+  background-size: cover;
   border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff;
   padding: 60px 0 30px 0;
