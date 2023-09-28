@@ -46,7 +46,7 @@ h6 {
 # Sections
 --------------------------------------------------------------*/
 section {
-  padding: 120px 0;
+  padding: 150px 0;
   overflow: hidden;
 }
 
@@ -614,7 +614,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #1C4E45;
+  background: #D37345;
   box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
 }
 
@@ -1125,7 +1125,7 @@ section {
   font-weight: 600;
   border: 0;
   font-size: 18px;
-  color: #444444;
+  color: #000000;
   text-align: left;
 }
 
@@ -1135,11 +1135,12 @@ section {
 
 .faq .accordion-button:not(.collapsed) {
   background: none;
-  color: #1C4E45;
+  color: #F2FCF8;
   border-bottom: 0;
 }
 
 .faq .accordion-body {
+  background-color: rgba(255,255,255,0);
   padding: 0 0 25px 0;
   border: 0;
 }
@@ -2505,4 +2506,8 @@ section {
   text-align: center;
   font-size: 13px;
   color: #000000;
+}
+
+.accordion-item {
+  background-color: rgba(255,255,255,0)
 }
